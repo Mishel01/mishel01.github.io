@@ -58,14 +58,14 @@ nav{
     text-align: center;
  }
 .fcc-btn {
-    background-color: #a5fca5;
+    background-color: #9effda;
     color: rgb(0, 0, 0);
     font-family: cursive;
     font-size: 25px;
     padding: 15px 25px;
     border-radius: 35px;
     margin-left: 80px;
-    border: solid 10px #62ffc3;
+    border: solid 10px #9b44ff;
     border-radius: 1em 4em / 4em 1em;
 }
 .fcc-btn1 {
